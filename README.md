@@ -4,6 +4,8 @@
 
 - Contato: felipe.s.coutinho0807@gmail.com
 
+~~
+
 - Hello! My name is Felipe Coutinho, currently 16 years old and studying electronics in Mogi das Cruzes;
 - Currently studying Harvard's CS50X and C.
 - My dream is to study computer science at the University of São Paulo (USP);
