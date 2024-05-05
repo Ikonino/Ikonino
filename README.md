@@ -1,2 +1,4 @@
-- Olá! Meu nome é Felipe Coutinho, tenho 16 anos e sou um estudante de eletrônica situado em Mogi das Cruzes;
+- Felipe Coutinho
+- Técnico em eletrônica - ETECPV (2023-2025)
+- Mogi das Cruzes, SP
 - Contato: felipe.s.coutinho0807@gmail.com
